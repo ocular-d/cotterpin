@@ -1,0 +1,12 @@
+{
+  "name": "cotterpin",
+  "version": "1.0.0",
+  "description": "Plop Wrapper",
+  "main": "index.js",
+  "repository": "git@github.com:ocular-d/cotterpin",
+  "author": "sven <sven@so36.net>",
+  "license": "MIT",
+  "dependencies": {
+    "plop": "^2.6.0"
+  }
+}
