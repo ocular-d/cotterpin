@@ -6,6 +6,9 @@
   "repository": "git@github.com:ocular-d/cotterpin",
   "author": "sven <sven@so36.net>",
   "license": "MIT",
+  "bin": {
+    "cotterpin": "./bin.js"
+  },
   "dependencies": {
     "plop": "^2.6.0"
   }
